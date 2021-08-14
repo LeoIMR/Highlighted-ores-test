@@ -1,7 +1,0 @@
-{
-    "parent": "block/emissive",
-    "textures": {
-        "all": "minecraft:block/copper_ore",
-        "glow": "minecraft:block/copper_ore_emissive"
-    }
-}

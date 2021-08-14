@@ -1,7 +1,0 @@
-{
-    "parent": "block/emissive",
-    "textures": {
-        "all": "minecraft:block/deepslate_lapis_ore",
-        "glow": "minecraft:block/deepslate_lapis_ore_emissive"
-    }
-}
