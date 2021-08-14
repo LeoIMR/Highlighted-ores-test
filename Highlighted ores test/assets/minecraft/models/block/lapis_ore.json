@@ -1,0 +1,7 @@
+{
+    "parent": "block/emissive",
+    "textures": {
+        "all": "minecraft:block/lapis_ore",
+        "glow": "minecraft:block/lapis_ore_emissive"
+    }
+}

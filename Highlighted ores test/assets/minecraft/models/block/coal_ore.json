@@ -1,0 +1,7 @@
+{
+    "parent": "block/emissive",
+    "textures": {
+        "all": "minecraft:block/coal_ore",
+        "glow": "minecraft:block/coal_ore_emissive"
+    }
+}

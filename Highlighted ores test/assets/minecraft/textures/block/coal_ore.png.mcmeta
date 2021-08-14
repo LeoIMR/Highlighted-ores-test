@@ -1,0 +1,13 @@
+{
+  "ctm": {
+    "ctm_version": 1,
+    "type": "ctm",
+    "textures": [
+      "minecraft:block/coal_ore_ctm"
+    ],
+    "extra": {
+      "connect_inside": true,
+      "ignore_states": true
+    }
+  }
+}

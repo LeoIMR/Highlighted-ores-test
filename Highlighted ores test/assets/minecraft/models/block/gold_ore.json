@@ -1,0 +1,7 @@
+{
+    "parent": "block/emissive",
+    "textures": {
+        "all": "minecraft:block/gold_ore",
+        "glow": "minecraft:block/gold_ore_emissive"
+    }
+}

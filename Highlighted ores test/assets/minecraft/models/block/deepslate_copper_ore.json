@@ -1,0 +1,7 @@
+{
+    "parent": "block/emissive",
+    "textures": {
+        "all": "minecraft:block/deepslate_copper_ore",
+        "glow": "minecraft:block/deepslate_copper_ore_emissive"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/emissive",
+    "textures": {
+        "all": "minecraft:block/gilded_blackstone",
+        "glow": "minecraft:block/gilded_blackstone_emissive"
+    }
+}
